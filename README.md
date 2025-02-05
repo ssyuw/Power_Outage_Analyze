@@ -1,6 +1,6 @@
 # Predictive Analysis for Uncovering the Causes of Major Power Outages
 
-**Authors**: Jessica Zhang, Stephanie Wang
+**Authors**: Stephanie Wang, Jessica Zhang
 
 ---
 
